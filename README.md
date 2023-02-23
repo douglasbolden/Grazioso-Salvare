@@ -1,5 +1,5 @@
 # Grazioso-Salvare
-CRUD Database application that utilizes MongoDB and Plotly Dash to populate a Table, Pie Chart, and Map with Information.
+CRUD Database application that utilizes MongoDB and Plotly Dash (including Dash-Leaflet) to populate a Table, Pie Chart, and Map with Information.
 
 <ul>
 <li>
@@ -18,7 +18,7 @@ How do you approach a problem as a computer scientist? Consider how you approach
 The best way to approach a problem as a computer science is to assume that there is a problem that can be solved. I find it best to identify the problem before trying to work on the problem at hand. The problem faced by the work that I had to complete for Grazioso Salvare can be summarized in a few sentences. 
   <p>There needs to be a database.</p>
   <p>There needs to be a way to CRUD a database.</p>
-  <p>People will use this application</p>
+  <p>People will use this application.</p>
 Seeing as this was what needed to be done, it was simple to assume that we would need to use something that could show our users information. This makes it easier for the user and the programmer. In doing so, we deduced we would need to use a database to store all of the information that will be processed.
 </p>
 <p>
